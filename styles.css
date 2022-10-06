@@ -7,3 +7,11 @@
     border: black 1px solid;
     margin: auto;
 }
+
+.box {
+    background-color: white;
+}
+
+.dark {
+    background-color: black;
+}
